@@ -1,5 +1,4 @@
 *.html
 *_files
 *.html
-*.md
 *.qmd
